@@ -112,7 +112,7 @@ main {
   width: 130px;
   height: 240px;
 }
-/* 선택된 캐릭터 효과과 */
+/* 선택된 캐릭터 효과 */
 .selected {
   filter: drop-shadow(0 0 10px rgb(255, 255, 255)); /* 캐릭터 테두리대로 효과 */
   transform: scale(1.1); /* 선택된 캐릭터 확대 */
